@@ -1,9 +1,9 @@
 
 # dirName
 
-Dossiers mal rangés, mal orthorgaphiés ou juste la flemme de créer des dossiers ? Faites comme les profs et copiez leur dossiers !
+Dossiers mal rangés, mal orthographiés ou juste la flemme de créer des dossiers ? Faites comme les profs et copiez leurs dossiers !
 
-dirName est un petit programme python qui permet de copier les répertoires d'une page moodle sur sa machine. (Le programme n'installe pas le contenu des répertoires sur moodle. Il recopie simplement leur nom).
+dirName est un petit programme Python qui permet de copier les répertoires d'une page Moodle sur sa machine. (Le programme n'installe pas le contenu des répertoires sur Moodle. Il recopie simplement leur nom).
 
 
 ## Auteur
